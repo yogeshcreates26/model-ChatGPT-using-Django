@@ -75,6 +75,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Django](https://www.djangoproject.com/) - Web framework used for building the application.
 - [ChatGPT](https://openai.com/) - AI language model for generating chatbot responses.
 
-## Contact
-
-For any inquiries or questions, please contact [Ansarimajid](mailto:your-majidgt786@gmail.com).
